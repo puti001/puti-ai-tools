@@ -1,5 +1,5 @@
 /* Bright Classroom Index — visual cards with thumbnail support, responsive grid, and sound effects */
-import { useEffect, useMemo, useRef, useState } from "react";
+import React, { useEffect, useMemo, useRef, useState } from "react";
 import {
   ExternalLink,
   Image as ImageIcon,
@@ -62,16 +62,51 @@ const colorFor = (category: string) =>
 const gradientFor = (category: string) =>
   gradients[getCategoryIndex(category) % gradients.length];
 
-// Helper to get Padlet CDN thumbnail
-const getOptimizedThumb = (url?: string) => {
-  if (!url) return "";
-  if (url.includes("storage.googleapis.com") || url.includes("padlet-uploads")) {
-    return `https://v1.padlet.pics/1/image?t=c_lfill,dpr_1,f_auto,g_auto,h_320,w_500&url=${encodeURIComponent(
-      url
-    )}`;
+// Robust Thumbnail Component with Error Fallback & No-Referrer
+function CardThumbnail({
+  src,
+  title,
+  category,
+}: {
+  src?: string;
+  title: string;
+  category: string;
+}) {
+  const [error, setError] = useState(false);
+  const [loaded, setLoaded] = useState(false);
+
+  if (!src || error) {
+    return (
+      <div
+        className="flex h-full w-full flex-col items-center justify-center p-4 text-center transition-transform duration-300 group-hover:scale-105"
+        style={{ background: gradientFor(category) }}
+      >
+        <span className="text-4xl drop-shadow-sm">{iconFor(category)}</span>
+        <span className="mt-2 text-xs font-bold text-[#1e2a38]/80">{category}</span>
+      </div>
+    );
   }
-  return url;
-};
+
+  return (
+    <div className="relative h-full w-full bg-[#edf2f6]">
+      {!loaded && (
+        <div className="absolute inset-0 animate-pulse bg-[#e2e9ef]" />
+      )}
+      <img
+        src={src}
+        alt={title}
+        loading="lazy"
+        referrerPolicy="no-referrer"
+        crossOrigin="anonymous"
+        onLoad={() => setLoaded(true)}
+        onError={() => setError(true)}
+        className={`h-full w-full object-cover object-top transition-all duration-300 group-hover:scale-105 ${
+          loaded ? "opacity-100" : "opacity-0"
+        }`}
+      />
+    </div>
+  );
+}
 
 export default function Home() {
   const [tools] = useState<Tool[]>(starterTools);
@@ -170,7 +205,9 @@ export default function Home() {
             </h1>
             <p className="mt-4 text-sm leading-7 text-[#52606d]">
               完整分類收錄、視覺縮圖展示、快速搜尋、點選即用。同步 Padlet 322
-              張精選教學卡片，已包含 <span className="font-bold text-[#239c9d]">{toolsWithThumbCount}</span> 張實體操作截圖與工具直連。
+              張精選教學卡片，已包含{" "}
+              <span className="font-bold text-[#239c9d]">{toolsWithThumbCount}</span>{" "}
+              張實體操作截圖與工具直連。
             </p>
           </div>
           <div className="flex gap-3">
@@ -330,7 +367,6 @@ export default function Home() {
                       tool.source === "Padlet 原卡" ||
                       tool.source === "無連結" ||
                       !tool.url;
-                    const thumbUrl = getOptimizedThumb(tool.image);
 
                     if (isMissing) {
                       return (
@@ -367,26 +403,11 @@ export default function Home() {
                       >
                         {/* Thumbnail Area */}
                         <div className="relative aspect-16/10 w-full overflow-hidden bg-[#f4f7f9]">
-                          {thumbUrl ? (
-                            <img
-                              src={thumbUrl}
-                              alt={tool.title}
-                              loading="lazy"
-                              className="h-full w-full object-cover object-top transition-transform duration-300 group-hover:scale-105"
-                            />
-                          ) : (
-                            <div
-                              className="flex h-full w-full flex-col items-center justify-center p-4 text-center transition-transform duration-300 group-hover:scale-105"
-                              style={{ background: gradientFor(category) }}
-                            >
-                              <span className="text-4xl drop-shadow-sm">
-                                {iconFor(category)}
-                              </span>
-                              <span className="mt-2 text-xs font-bold text-[#1e2a38]/80">
-                                {category}
-                              </span>
-                            </div>
-                          )}
+                          <CardThumbnail
+                            src={tool.image}
+                            title={tool.title}
+                            category={category}
+                          />
 
                           {/* Category Badge over Thumbnail */}
                           <div className="absolute left-2.5 top-2.5 flex items-center gap-1 rounded-md bg-[#1e2a38]/85 px-2 py-0.5 text-[11px] font-black text-white shadow-xs backdrop-blur-xs">
@@ -460,9 +481,10 @@ export default function Home() {
                         {tool.image ? (
                           <div className="h-12 w-16 shrink-0 overflow-hidden rounded-xl bg-[#f0f4f7]">
                             <img
-                              src={getOptimizedThumb(tool.image)}
+                              src={tool.image}
                               alt=""
                               loading="lazy"
+                              referrerPolicy="no-referrer"
                               className="h-full w-full object-cover"
                             />
                           </div>
