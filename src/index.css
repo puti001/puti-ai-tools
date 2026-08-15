@@ -1,0 +1,22 @@
+/*
+ * Design direction — Bright Classroom Index
+ * Paper-white canvas, sunny yellow headline, coral/aqua/highlighter category signals.
+ * Every category is visible in a quiet, reference-page-inspired directory; no hidden pagination.
+ */
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-border: var(--border);
+  --color-ring: var(--ring);
+}
+:root { --background:#fffdf6; --foreground:#1e2a38; --card:#ffffff; --card-foreground:#1e2a38; --primary:#ffcd38; --primary-foreground:#1e2a38; --border:#e5e9ee; --ring:#239c9d; }
+@layer base { *{@apply border-border outline-ring/50} html{scroll-behavior:smooth} body{@apply bg-background text-foreground; font-family:"Noto Sans TC",system-ui,sans-serif; background-image:radial-gradient(#f3dd96 1px,transparent 1px);background-size:22px 22px} }
+@keyframes enter {from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+.appear{animation:enter .5s ease both}.tool-link{transition:transform .18s ease,box-shadow .18s ease}.tool-link:hover{transform:translateY(-2px);box-shadow:0 8px 18px rgba(42,72,91,.13)}
