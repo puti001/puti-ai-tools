@@ -5,7 +5,7 @@
     "category": "作者(About me)",
     "url": "https://www.facebook.com/profile.php?id=61582123271825",
     "source": "文字連結",
-    "image": ""
+    "image": "./thumbnails/thumb_0.jpg"
   },
   {
     "id": "c3402845973",
@@ -13,7 +13,7 @@
     "category": "作者(About me)",
     "url": "https://padlet.com/clongwh/puti-ai-teaching-tool-library-tifvrvjcpg51cw7r/wish/dMA1W8M0Vz6Da4OV",
     "source": "圖片／附件連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/44619131c50138f27939c5cea3378a74/AI_______.jpg"
+    "image": "./thumbnails/thumb_1.jpg"
   },
   {
     "id": "c3601716562",
@@ -21,7 +21,7 @@
     "category": "作者(About me)",
     "url": "https://padlet.com/clongwh/puti-ai-teaching-tool-library-tifvrvjcpg51cw7r/wish/YBl3Z2xm96w6av16",
     "source": "圖片／附件連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/c49bc0ffbc07113ee8e21a122cc89dcb/Gemini_Certified_Educator_page_0001.jpg"
+    "image": "./thumbnails/thumb_2.jpg"
   },
   {
     "id": "c3727942821",
@@ -29,7 +29,7 @@
     "category": "作者(About me)",
     "url": "https://padlet.com/clongwh/puti-ai-teaching-tool-library-tifvrvjcpg51cw7r/wish/v3w8ZwG7rnKkZN52",
     "source": "圖片／附件連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/6c6d0d644e3e972d566c1bedb3db762d/puti_ai_black_belt_certificate_2026.jpg"
+    "image": "./thumbnails/thumb_3.jpg"
   },
   {
     "id": "c3686463106",
@@ -37,7 +37,7 @@
     "category": "作者(About me)",
     "url": "https://padlet.com/clongwh/puti-ai-teaching-tool-library-tifvrvjcpg51cw7r",
     "source": "Padlet 原卡",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/c29159d34183905fc658b50d7458e260/______2025_11_20_12_54_1.jpg"
+    "image": "./thumbnails/thumb_4.jpg"
   },
   {
     "id": "manual-lecturer-01-missing",
@@ -53,7 +53,7 @@
     "category": "講師經歷",
     "url": "https://www.facebook.com/share/p/197h5M48XB/",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/f6f8cdf0fd97f6a0a04894ed7cdee029/ChatGPT_Image_2026_8_2____10_54_00.png"
+    "image": "./thumbnails/thumb_6.jpg"
   },
   {
     "id": "c3992771862",
@@ -61,7 +61,7 @@
     "category": "講師經歷",
     "url": "https://www.facebook.com/share/p/1Crmpr4CJz/",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/ef1106de9f31a64defcbca9707a3d4dd/ChatGPT_Image_2026_7_27____05_56_42.png"
+    "image": "./thumbnails/thumb_7.jpg"
   },
   {
     "id": "c3984053095",
@@ -69,7 +69,7 @@
     "category": "講師經歷",
     "url": "https://www.facebook.com/share/p/1HuTfcFw2D/",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/116ac5ddb3ccafa0602bfa5f01ae71f8/2026_7_16____07_57_53.png"
+    "image": "./thumbnails/thumb_8.jpg"
   },
   {
     "id": "c3973307331",
@@ -77,7 +77,7 @@
     "category": "講師經歷",
     "url": "https://www.facebook.com/share/p/1HQF5k2UcJ/",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/e11bf0d6a04adcfa6a721add9ea4c4b0/1001293.jpg"
+    "image": "./thumbnails/thumb_9.jpg"
   },
   {
     "id": "c3914554957",
@@ -85,7 +85,7 @@
     "category": "講師經歷",
     "url": "https://www.facebook.com/share/p/18ihnvwHBB/",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/7674029ef3d8703ba8a7a7c2468e4751/1778834057576.jpg"
+    "image": "./thumbnails/thumb_10.jpg"
   },
   {
     "id": "c3914270447",
@@ -93,7 +93,7 @@
     "category": "講師經歷",
     "url": "https://www.facebook.com/share/p/1GV5iAYsh2/",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/ec28fd5a0042634f6b8cc1031d6ac06d/1778820676926.jpg"
+    "image": "./thumbnails/thumb_11.jpg"
   },
   {
     "id": "c3914268054",
@@ -101,7 +101,7 @@
     "category": "講師經歷",
     "url": "https://www.facebook.com/share/p/18Y3L1Ht4G/",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/f6da436dabd29a2da308ab11c34aee41/1776252807167.jpg"
+    "image": "./thumbnails/thumb_12.jpg"
   },
   {
     "id": "c3849232552",
@@ -109,7 +109,7 @@
     "category": "講師經歷",
     "url": "https://www.facebook.com/share/p/18ZezNUotH/",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/9181d9a86740a18233f46779298b34d7/1775041664866.jpg"
+    "image": "./thumbnails/thumb_13.jpg"
   },
   {
     "id": "c3839289617",
@@ -117,7 +117,7 @@
     "category": "講師經歷",
     "url": "https://www.facebook.com/share/p/1JdHtFfK5Y/",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/adc60e3fc655f2f2719342270dd709e8/1774435400657.jpg"
+    "image": "./thumbnails/thumb_14.jpg"
   },
   {
     "id": "c3821241504",
@@ -125,7 +125,7 @@
     "category": "講師經歷",
     "url": "https://www.facebook.com/share/p/1bfprrSUhb/",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/4636dedfd29b9849bc9044ebb7c823b1/1773233900687.jpg"
+    "image": "./thumbnails/thumb_15.jpg"
   },
   {
     "id": "c3813303990",
@@ -133,7 +133,7 @@
     "category": "講師經歷",
     "url": "https://www.facebook.com/share/p/1HjfY1arxN/",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/a681293ffe5a76e02cb2306bab98b1e1/888471_0.jpg"
+    "image": "./thumbnails/thumb_16.jpg"
   },
   {
     "id": "c3690056547",
@@ -141,7 +141,7 @@
     "category": "講師經歷",
     "url": "https://www.facebook.com/share/p/1A1pe6yong/",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/c07a6c29d4e77f06ebcba63c87646a18/1763556370081.jpg"
+    "image": ""
   },
   {
     "id": "c3682499635",
@@ -149,7 +149,7 @@
     "category": "講師經歷",
     "url": "https://www.facebook.com/share/p/1EVPpaUv3U/",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/fa66222b0f0535b6587033a412428a93/20251114_150555.jpg"
+    "image": ""
   },
   {
     "id": "c3666604027",
@@ -157,7 +157,7 @@
     "category": "講師經歷",
     "url": "https://www.facebook.com/share/p/1HAP5XEpNQ/",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/cf725f1063d82ee057c474ee9612ebf7/1762332363433.jpg"
+    "image": ""
   },
   {
     "id": "c3644652781",
@@ -165,7 +165,7 @@
     "category": "講師經歷",
     "url": "https://www.facebook.com/share/p/1CR1uD4YEk/",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/6170fed173634f092599afb3a55d5e2b/1761220926432.jpg"
+    "image": ""
   },
   {
     "id": "c3615343793",
@@ -173,7 +173,7 @@
     "category": "講師經歷",
     "url": "https://www.facebook.com/share/p/16T9yjiyHk/",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/053c18fa2dc7dd6993ffa526ac550729/1759409163890.jpg"
+    "image": ""
   },
   {
     "id": "c3537890039",
@@ -181,7 +181,7 @@
     "category": "講師經歷",
     "url": "https://padlet.com/clongwh/puti-ai-teaching-tool-library-tifvrvjcpg51cw7r/wish/KxJvag9B7EpDZAg0",
     "source": "圖片／附件連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/1d382887f34213b3b0d835a960a919eb/Gemini_Generated_Image_lx6uj5lx6uj5lx6u.png"
+    "image": ""
   },
   {
     "id": "c3495500412",
@@ -189,7 +189,7 @@
     "category": "講師經歷",
     "url": "https://padlet.com/clongwh/puti-ai-teaching-tool-library-tifvrvjcpg51cw7r/wish/L8KjW9PEjANEZJbv",
     "source": "圖片／附件連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/10ae8268c3134e691a70aa130ffa2d69/20250618_141304_0.jpg"
+    "image": ""
   },
   {
     "id": "c3455075873",
@@ -197,7 +197,7 @@
     "category": "講師經歷",
     "url": "https://padlet.com/clongwh/puti-ai-teaching-tool-library-tifvrvjcpg51cw7r/wish/dMA1W8M23n01a4OV",
     "source": "圖片／附件連結",
-    "image": "https://padlet-uploads.storage.googleapis.com/405810605/315e48a21d4098deea14356c190a0138/1747486722103.jpg"
+    "image": ""
   },
   {
     "id": "c3412406187",
@@ -205,7 +205,7 @@
     "category": "講師經歷",
     "url": "https://padlet.com/clongwh/puti-ai-teaching-tool-library-tifvrvjcpg51cw7r/wish/YDgnZezMBnqOWwrA",
     "source": "圖片／附件連結",
-    "image": "https://padlet-uploads.storage.googleapis.com/405810605/75c2e077938ab7400ba82f036abacef5/20250416_150915.jpg"
+    "image": ""
   },
   {
     "id": "c3344652148",
@@ -213,7 +213,7 @@
     "category": "講師經歷",
     "url": "https://padlet.com/clongwh/puti-ai-teaching-tool-library-tifvrvjcpg51cw7r/wish/Ae2RavzKMX70anz4",
     "source": "圖片／附件連結",
-    "image": "https://padlet-uploads.storage.googleapis.com/405810605/98eee638fc561e92f3d2e5e6d9a0a6a9/1740565543473.jpg"
+    "image": ""
   },
   {
     "id": "c3344650382",
@@ -221,7 +221,7 @@
     "category": "講師經歷",
     "url": "https://padlet.com/clongwh/puti-ai-teaching-tool-library-tifvrvjcpg51cw7r/wish/kxodWG4YyxlBagP7",
     "source": "圖片／附件連結",
-    "image": "https://padlet-uploads.storage.googleapis.com/405810605/74238e15070997469a7da3c543526356/S__121937947_0.jpg"
+    "image": ""
   },
   {
     "id": "c3989621511",
@@ -229,7 +229,7 @@
     "category": "小遊戲",
     "url": "https://puti001.github.io/teach_tools/mouse-adventure/",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/28d911b88431526f5b78ff3e60153041/2.png"
+    "image": "./thumbnails/thumb_28.jpg"
   },
   {
     "id": "c3989620874",
@@ -237,7 +237,7 @@
     "category": "小遊戲",
     "url": "https://puti001.github.io/teach_tools/mouse-game/",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/3303fbf0e7a7ed665dc3894be221a41a/1.png"
+    "image": "./thumbnails/thumb_29.jpg"
   },
   {
     "id": "c3989619388",
@@ -245,7 +245,7 @@
     "category": "小遊戲",
     "url": "https://puti001.github.io/mouse-practice-game/",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/b132be70f2d77f51b3605fcc1a9ff244/3.png"
+    "image": "./thumbnails/thumb_30.jpg"
   },
   {
     "id": "c3939014233",
@@ -253,7 +253,7 @@
     "category": "小遊戲",
     "url": "https://puti001.github.io/CatchingGame/",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/be1126c04a3fa31a73aeebb96e84fdfa/ChatGPT_Image_2026_6_3____07_43_56.png"
+    "image": "./thumbnails/thumb_31.jpg"
   },
   {
     "id": "c3931503440",
@@ -261,7 +261,7 @@
     "category": "小遊戲",
     "url": "https://gemini.google.com/share/56c65fbcf1be",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/fe7e0c54d1842a5fd8aa405ba49cf4ac/ChatGPT_Image_2026_5_27____09_05_57.png"
+    "image": "./thumbnails/thumb_32.jpg"
   },
   {
     "id": "c3847358477",
@@ -269,7 +269,7 @@
     "category": "小遊戲",
     "url": "https://puti001.github.io/teach_tools/confused_cha.html",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/dfd0f93ff1010ac6b63b6b1365ba6fd7/Gemini_Generated_Image_4zjc3p4zjc3p4zjc.png"
+    "image": "./thumbnails/thumb_33.jpg"
   },
   {
     "id": "c3757896364",
@@ -277,7 +277,7 @@
     "category": "小遊戲",
     "url": "https://gemini.google.com/share/63090a9dfa25",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/640eea29099b6773bde595f1fd8fb52b/Gemini_Generated_Image_ozk94cozk94cozk9.png"
+    "image": "./thumbnails/thumb_34.jpg"
   },
   {
     "id": "c3809694620",
@@ -285,7 +285,7 @@
     "category": "小遊戲",
     "url": "https://gemini.google.com/share/a42a753871a3",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/b0bbd1ae4c34c6ffd82b960edc2b6b7b/Gemini_Generated_Image_fopss5fopss5fops.png"
+    "image": "./thumbnails/thumb_35.jpg"
   },
   {
     "id": "c3790583038",
@@ -293,7 +293,7 @@
     "category": "小遊戲",
     "url": "https://puti001.github.io/teach_tools/shoot.html",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/b3107e1ebaec2600a76143bd85baf5d3/Gemini_Generated_Image_zcg15xzcg15xzcg1.png"
+    "image": "./thumbnails/thumb_36.jpg"
   },
   {
     "id": "c3789789434",
@@ -301,7 +301,7 @@
     "category": "小遊戲",
     "url": "https://puti001.github.io/teach_tools/10p5.html",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/79f4e3c4cd553f0b2c84a623f5b51b88/Gemini_Generated_Image_yswho5yswho5yswh.png"
+    "image": ""
   },
   {
     "id": "c3733881350",
@@ -309,7 +309,7 @@
     "category": "小遊戲",
     "url": "https://gemini.google.com/share/ebcb28d467a2",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/af72d5b09cd2d15468c7ff9da2221197/_______2025_12_29_112700.png"
+    "image": ""
   },
   {
     "id": "c3700333351",
@@ -317,7 +317,7 @@
     "category": "小遊戲",
     "url": "https://gemini.google.com/share/bc90d9317fc9",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/b45e537d8088f754d1a1c75731c83ccc/Gemini_Generated_Image_sw2ktgsw2ktgsw2k.png"
+    "image": ""
   },
   {
     "id": "c3694717960",
@@ -325,7 +325,7 @@
     "category": "小遊戲",
     "url": "https://gemini.google.com/share/cce6c80f8314",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/e2e5bbb42d59c0bf932980c189063e6e/Gemini_Generated_Image_h71kr2h71kr2h71k.png"
+    "image": ""
   },
   {
     "id": "c3694363661",
@@ -333,7 +333,7 @@
     "category": "小遊戲",
     "url": "https://gemini.google.com/share/83b888fa1a72",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/39aacd78a53f9aa7b7ecbbf46c70d113/Gemini_Generated_Image_rtqfdgrtqfdgrtqf.png"
+    "image": ""
   },
   {
     "id": "c3685516666",
@@ -341,7 +341,7 @@
     "category": "小遊戲",
     "url": "https://puti-ai.my.canva.site/typing002",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/f1484891cbfa97245b78f1de7b0ca750/image.png"
+    "image": ""
   },
   {
     "id": "c3662736183",
@@ -349,7 +349,7 @@
     "category": "小遊戲",
     "url": "https://puti-ai.my.canva.site/typing001",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/4de547e9d212c8d579c58efb6ad736fe/image.png"
+    "image": ""
   },
   {
     "id": "c3636575584",
@@ -357,7 +357,7 @@
     "category": "小遊戲",
     "url": "https://sites.google.com/view/puti-ai/zhuyin",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/09c124904972393d0dbfed145238fffd/image.png"
+    "image": ""
   },
   {
     "id": "c3599931802",
@@ -365,7 +365,7 @@
     "category": "小遊戲",
     "url": "https://g.co/gemini/share/750e1b90cfd2",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/68c8687603af86d4c1731876b74dce61/Puti_AI______________.png"
+    "image": ""
   },
   {
     "id": "c3583841447",
@@ -373,7 +373,7 @@
     "category": "小遊戲",
     "url": "https://g.co/gemini/share/e2b667c7f0d0",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/28790dbd128656a0834c82784d2cea03/____.png"
+    "image": ""
   },
   {
     "id": "c3481211677",
@@ -389,7 +389,7 @@
     "category": "學測助教bot",
     "url": "https://www.anygen.io/share/55kpRWqsmBXA0Sa1dfo8B2?share_id=7592229559668313823",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/366fdb159f18aa3ba3364f0e607481c6/Gemini_Generated_Image_c76chyc76chyc76c.png"
+    "image": "./thumbnails/thumb_48.jpg"
   },
   {
     "id": "c3833916062",
@@ -397,7 +397,7 @@
     "category": "學測助教bot",
     "url": "https://www.anygen.io/share/67HUP4uDdgYY1oOLd0yJu1?share_id=7592229559668313823",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/008dcef4013d6e6bdbd4691a49a19089/Gemini_Generated_Image_a58ptfa58ptfa58p.png"
+    "image": "./thumbnails/thumb_49.jpg"
   },
   {
     "id": "c3832680524",
@@ -405,7 +405,7 @@
     "category": "學測助教bot",
     "url": "https://www.anygen.io/share/3M25Hd4hrhQZFelo4zaozb?share_id=7592229559668313823",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/5976d1e26b137400987fd17a309d966c/Gemini_Generated_Image_4k9uer4k9uer4k9u.png"
+    "image": "./thumbnails/thumb_50.jpg"
   },
   {
     "id": "c3831338389",
@@ -413,7 +413,7 @@
     "category": "學測助教bot",
     "url": "https://student.magicschool.ai/s/join?joinCode=NLi2Xw",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/cd949490b04c707ccc48a9868c7fcded/Gemini_Generated_Image_y1ah3ay1ah3ay1ah.png"
+    "image": "./thumbnails/thumb_51.jpg"
   },
   {
     "id": "c3827988029",
@@ -421,7 +421,7 @@
     "category": "學測助教bot",
     "url": "https://puti001.github.io/teach_tools/math5-10class.html",
     "source": "文字連結",
-    "image": ""
+    "image": "./thumbnails/thumb_52.jpg"
   },
   {
     "id": "c3650549326",
@@ -429,7 +429,7 @@
     "category": "學測助教bot",
     "url": "https://notebooklm.google.com/notebook/1ac41c6a-e0d5-4b82-8c0c-7b6517002c62",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/ba7cce7a3ea23b9cc39d4b204f8002e4/1.png"
+    "image": "./thumbnails/thumb_53.jpg"
   },
   {
     "id": "c3650577343",
@@ -437,7 +437,7 @@
     "category": "學測助教bot",
     "url": "https://notebooklm.google.com/notebook/dc16fdea-cf52-4a21-9e3a-30caad8c314c",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/3187e9d481065b356f6761bf9f420deb/2.png"
+    "image": "./thumbnails/thumb_54.jpg"
   },
   {
     "id": "c3650828905",
@@ -445,7 +445,7 @@
     "category": "學測助教bot",
     "url": "https://notebooklm.google.com/notebook/ca640a0b-22f1-4bd8-8bfd-c3ef8b42af0a",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/79ea30d0d5dc09cb7a5bc57d5ae9849d/3.png"
+    "image": "./thumbnails/thumb_55.jpg"
   },
   {
     "id": "c3650829742",
@@ -453,7 +453,7 @@
     "category": "學測助教bot",
     "url": "https://notebooklm.google.com/notebook/7c53d26c-8340-4830-89f8-b0e22c6f8fd9",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/5c3d241f85d07faf8e7d1e6059332956/4.png"
+    "image": "./thumbnails/thumb_56.jpg"
   },
   {
     "id": "c4008091454",
@@ -461,7 +461,7 @@
     "category": "國中會考Bot",
     "url": "https://puti001.github.io/baihe-quiz-player/junior_high_teacher_calendar_generator.html",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/954ca768c74ea6ea2ae17300f11d6b58/ChatGPT_Image_2026_8_15____02_42_10.png"
+    "image": "./thumbnails/thumb_57.jpg"
   },
   {
     "id": "c3854874946",
@@ -469,7 +469,7 @@
     "category": "國中會考Bot",
     "url": "https://www.anygen.io/share/3F0xomAx8ai3AcLUAKRQpr",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/c1683dffc813e0f83ca166567642218e/Gemini_Generated_Image_hnsxk5hnsxk5hnsx.png"
+    "image": "./thumbnails/thumb_58.jpg"
   },
   {
     "id": "c3855123575",
@@ -477,7 +477,7 @@
     "category": "國中會考Bot",
     "url": "https://www.anygen.io/share/38kjTKXqV1Nv78f5lg517h",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/db31371feae3e21e1eea70ad178ccfb7/Gemini_Generated_Image_ttiuzrttiuzrttiu.png"
+    "image": "./thumbnails/thumb_59.jpg"
   },
   {
     "id": "c3855042512",
@@ -485,7 +485,7 @@
     "category": "國中會考Bot",
     "url": "https://www.anygen.io/share/2HN3ybgQMVmYwpziNfI54y",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/9ae75e9541f90ac1119966efbcd3fcbb/Gemini_Generated_Image_637tyz637tyz637t.png"
+    "image": "./thumbnails/thumb_60.jpg"
   },
   {
     "id": "c3855757018",
@@ -493,7 +493,7 @@
     "category": "國中會考Bot",
     "url": "https://www.anygen.io/share/3LcAhkrf2E1eP8xoNIqI7q",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/aa04b54414df0255f6563b64e21589a2/Gemini_Generated_Image_2vbkf32vbkf32vbk.png"
+    "image": ""
   },
   {
     "id": "c3855340996",
@@ -501,7 +501,7 @@
     "category": "國中會考Bot",
     "url": "https://www.anygen.io/share/2kKCoAltVrOzhMDUton8uU",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/ce206810fab84031da03db467c984794/Gemini_Generated_Image_j2bvyxj2bvyxj2bv.png"
+    "image": ""
   },
   {
     "id": "c3768705845",
@@ -509,7 +509,7 @@
     "category": "國中會考Bot",
     "url": "https://gemini.google.com/share/7d9469e86570",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/b4806b919622c402b4a8b69c667bef38/Gemini_Generated_Image_52vmxb52vmxb52vm.png"
+    "image": ""
   },
   {
     "id": "c3657536601",
@@ -517,7 +517,7 @@
     "category": "國中會考Bot",
     "url": "https://notebooklm.google.com/notebook/565a16d6-8b88-49e7-a2b2-1d4a2f5b13a6",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/84a89ff1c42ad000d00c9d3bda4c51a2/1.png"
+    "image": ""
   },
   {
     "id": "c3660300681",
@@ -525,7 +525,7 @@
     "category": "國中會考Bot",
     "url": "https://notebooklm.google.com/notebook/fc829821-83f8-461f-85a9-dca8d6b4ec79",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/b4f6601a01e85f2d74d15ddfdc293910/2.png"
+    "image": ""
   },
   {
     "id": "c3660309053",
@@ -533,7 +533,7 @@
     "category": "國中會考Bot",
     "url": "https://notebooklm.google.com/notebook/62d3b5fc-d1e1-4da8-b032-fa80d87cbd19",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/b0717cd02bb2193976dac99f5939b9c0/3.png"
+    "image": ""
   },
   {
     "id": "c3660318264",
@@ -541,7 +541,7 @@
     "category": "國中會考Bot",
     "url": "https://notebooklm.google.com/notebook/570d5b59-002b-4757-9a5c-74914fc78b12",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/105115679df0f196216d82e8368236c4/Puti_AI____Bot.png"
+    "image": ""
   },
   {
     "id": "c3660328605",
@@ -549,7 +549,7 @@
     "category": "國中會考Bot",
     "url": "https://notebooklm.google.com/notebook/f5f4325a-0b0f-4fd3-bc53-af8b32d69bcf",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/2eb705e89448bc1aae99c59f2fc4a8da/5.png"
+    "image": ""
   },
   {
     "id": "c3987766225",
@@ -557,7 +557,7 @@
     "category": "作品(collections)",
     "url": "https://padlet.com/clongwh/puti-ai-teaching-tool-library-tifvrvjcpg51cw7r/wish/do3MQJYo1YDda15w",
     "source": "圖片／附件連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/50e5ac650ff72b170a059cef9b1d2373/1.png"
+    "image": "./thumbnails/thumb_69.jpg"
   },
   {
     "id": "c3987619808",
@@ -565,7 +565,7 @@
     "category": "作品(collections)",
     "url": "https://padlet.com/clongwh/puti-ai-teaching-tool-library-tifvrvjcpg51cw7r/wish/lkROZPwjDXJMQjMg",
     "source": "圖片／附件連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/94d0b0ca99f669f01d6a63bfeaa1f6d2/1.png"
+    "image": "./thumbnails/thumb_70.jpg"
   },
   {
     "id": "c3986764313",
@@ -573,7 +573,7 @@
     "category": "作品(collections)",
     "url": "https://padlet.com/clongwh/puti-ai-teaching-tool-library-tifvrvjcpg51cw7r/wish/1xkVaqd4wM3bWl0e",
     "source": "圖片／附件連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/50d22419bbdcd97ff72d05f488850cc0/1.png"
+    "image": "./thumbnails/thumb_71.jpg"
   },
   {
     "id": "c3986700833",
@@ -581,7 +581,7 @@
     "category": "作品(collections)",
     "url": "https://padlet.com/clongwh/puti-ai-teaching-tool-library-tifvrvjcpg51cw7r/wish/e9YpQNnel37RQxjM",
     "source": "圖片／附件連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/38ea40ba5414db23b5d8a6fe91ad9cb1/1.png"
+    "image": "./thumbnails/thumb_72.jpg"
   },
   {
     "id": "c3986434676",
@@ -589,7 +589,7 @@
     "category": "作品(collections)",
     "url": "https://padlet.com/clongwh/puti-ai-teaching-tool-library-tifvrvjcpg51cw7r/wish/PVKBQOrO0j6Vaj5x",
     "source": "圖片／附件連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/0c0e50d35582ff6350746b42825e698e/1.png"
+    "image": "./thumbnails/thumb_73.jpg"
   },
   {
     "id": "c3986319173",
@@ -597,7 +597,7 @@
     "category": "作品(collections)",
     "url": "https://padlet.com/clongwh/puti-ai-teaching-tool-library-tifvrvjcpg51cw7r/wish/dMA1W8wbwKbAZ4OV",
     "source": "圖片／附件連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/d21f7329f206ea87b71bbdd33668e08e/1.png"
+    "image": "./thumbnails/thumb_74.jpg"
   },
   {
     "id": "c3765847524",
@@ -605,7 +605,7 @@
     "category": "作品(collections)",
     "url": "https://padlet.com/clongwh/puti-ai-teaching-tool-library-tifvrvjcpg51cw7r/wish/pRxDZ4P3VdxVZ183",
     "source": "圖片／附件連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/3bb77bb830584f1ae01744bbc29c4bef/1.png"
+    "image": "./thumbnails/thumb_75.jpg"
   },
   {
     "id": "c3759651411",
@@ -613,7 +613,7 @@
     "category": "作品(collections)",
     "url": "https://padlet.com/clongwh/puti-ai-teaching-tool-library-tifvrvjcpg51cw7r/wish/E851Q0vVd74XWVAb",
     "source": "圖片／附件連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/a35d6d7dce5f3def49938f5f52dae8e1/1.png"
+    "image": "./thumbnails/thumb_76.jpg"
   },
   {
     "id": "c3757790885",
@@ -621,7 +621,7 @@
     "category": "作品(collections)",
     "url": "https://padlet.com/clongwh/puti-ai-teaching-tool-library-tifvrvjcpg51cw7r/wish/yEPVZkneR0zkQb0Y",
     "source": "圖片／附件連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/e3afe3e3c883763d2c60b436447e311d/__________0.png"
+    "image": "./thumbnails/thumb_77.jpg"
   },
   {
     "id": "c3748544899",
@@ -629,7 +629,7 @@
     "category": "作品(collections)",
     "url": "https://padlet.com/clongwh/puti-ai-teaching-tool-library-tifvrvjcpg51cw7r/wish/E851Q0v28mgmWVAb",
     "source": "圖片／附件連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/4bef873fd0c14c90820da0af2c25ac7a/unnamed.jpg"
+    "image": ""
   },
   {
     "id": "c3684588823",
@@ -637,7 +637,7 @@
     "category": "作品(collections)",
     "url": "https://padlet.com/clongwh/puti-ai-teaching-tool-library-tifvrvjcpg51cw7r/wish/AL83WzGKlBMOa0Pg",
     "source": "圖片／附件連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/b6b1bee7d00ba6ef4011c7658b6b81e5/page_12.png"
+    "image": ""
   },
   {
     "id": "c3392926411",
@@ -645,7 +645,7 @@
     "category": "作品(collections)",
     "url": "https://padlet.com/clongwh/puti-ai-teaching-tool-library-tifvrvjcpg51cw7r/wish/E851Q06KMq5AWVAb",
     "source": "圖片／附件連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/0bf91b23ef32a2b9dd9ca4715eaa3ed4/page_3.png"
+    "image": ""
   },
   {
     "id": "c3549107740",
@@ -653,7 +653,7 @@
     "category": "作品(collections)",
     "url": "https://g.co/gemini/share/a1d21d1a30a6",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/90a4e4d80e9505aa4c94151de0253a56/ChatGPT_Image_2025_8_20____10_35_31.png"
+    "image": ""
   },
   {
     "id": "c3537000377",
@@ -749,7 +749,7 @@
     "category": "評論",
     "url": "https://www.facebook.com/share/p/1Bt9MYUTWU/",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/0b9c76ed14fc8a6d617cd6159c3256a0/End_Scene_Recharge_page_0002.jpg"
+    "image": "./thumbnails/thumb_93.jpg"
   },
   {
     "id": "c3611379022",
@@ -757,7 +757,7 @@
     "category": "評論",
     "url": "https://www.facebook.com/share/p/1ATRrDQRGX/",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/e385b3b45f4c70005d1d9d13f6c44c5b/unnamed__2_.png"
+    "image": "./thumbnails/thumb_94.jpg"
   },
   {
     "id": "c3486655036",
@@ -765,7 +765,7 @@
     "category": "評論",
     "url": "https://flipedu.parenting.com.tw/article/010135",
     "source": "圖片／附件連結",
-    "image": ""
+    "image": "./thumbnails/thumb_95.jpg"
   },
   {
     "id": "c3450519878",
@@ -773,7 +773,7 @@
     "category": "評論",
     "url": "https://flipedu.parenting.com.tw/article/010065?utm_source=Facebook&fbclid=IwY2xjawKRcGRleHRuA2FlbQIxMQBicmlkETFsc1dzdmVaQXVLOUFpMzlaAR6waGOJVxPFa3686W34OzqOkAOoCeqsYkp6V0W0ZK0OgbkWt4jZ7kwjn_JDqg_aem_AF3b9Wx5011MhfbI7WjcRA",
     "source": "圖片／附件連結",
-    "image": ""
+    "image": "./thumbnails/thumb_96.jpg"
   },
   {
     "id": "c3486670281",
@@ -781,7 +781,7 @@
     "category": "評論",
     "url": "https://market.cloud.edu.tw/exhibit2/683e725c03a87baaad2623231644e944e537acab",
     "source": "圖片／附件連結",
-    "image": ""
+    "image": "./thumbnails/thumb_97.jpg"
   },
   {
     "id": "c3480478673",
@@ -941,7 +941,7 @@
     "category": "測驗(test)",
     "url": "https://clongwh.blogspot.com/2024/11/puti.html",
     "source": "文字連結",
-    "image": "https://padlet-uploads.storage.googleapis.com/405810605/2fd0ee9366ae62668ad1a06e2f5a4cc3/2024_11_13_20h41_57.png"
+    "image": ""
   },
   {
     "id": "c3316728305",
@@ -965,7 +965,7 @@
     "category": "閱讀寫作(reading ＆ writing)",
     "url": "https://puti001.github.io/teach_tools/Voice_reading.html",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/597beaeb362fe8a32a622b122c5e70b4/Gemini_Generated_Image_1iinoh1iinoh1iin.png"
+    "image": ""
   },
   {
     "id": "c3378064256",
@@ -973,7 +973,7 @@
     "category": "閱讀寫作(reading ＆ writing)",
     "url": "https://student.magicschool.ai/s/join?joinCode=S57DrQ",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/3b86cfcd86a4e2818503f26fdfb46939/Gemini_Generated_Image_fenmqmfenmqmfenm.png"
+    "image": ""
   },
   {
     "id": "c3825496583",
@@ -981,7 +981,7 @@
     "category": "閱讀寫作(reading ＆ writing)",
     "url": "https://gemini.google.com/gem/1jX8z1lWDVwrhbWbRIy36FSsnZTXaLwf_?usp=sharing",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/c6c2509847785174bbbfcc038480f477/Gemini_Generated_Image_dfw2c9dfw2c9dfw2.png"
+    "image": ""
   },
   {
     "id": "c3823680532",
@@ -989,7 +989,7 @@
     "category": "閱讀寫作(reading ＆ writing)",
     "url": "https://gemini.google.com/gem/1OitcPerEs0acQIE7aN1AITDAickxaKQ4?usp=sharing",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/d4123054ea494ba7979bbf64adf621ba/Gemini_Generated_Image_6pr9if6pr9if6pr9.png"
+    "image": ""
   },
   {
     "id": "c3762440597",
@@ -997,7 +997,7 @@
     "category": "閱讀寫作(reading ＆ writing)",
     "url": "https://gemini.google.com/share/68f5d9bbf101",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/17685f71e46d5b8cdbc3cb7fbc493b14/Gemini_Generated_Image_3qtg5y3qtg5y3qtg.png"
+    "image": ""
   },
   {
     "id": "c3684026872",
@@ -1005,7 +1005,7 @@
     "category": "閱讀寫作(reading ＆ writing)",
     "url": "https://opal.google/?flow=drive:/1PivX5wF19dzygk2Ld8iIVTztuk1aI5Mk&shared&mode=app",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/def495a67152f56e2291c6eb719bde5d/______.png"
+    "image": ""
   },
   {
     "id": "c3677214012",
@@ -1013,7 +1013,7 @@
     "category": "閱讀寫作(reading ＆ writing)",
     "url": "https://opal.google/?flow=drive:/1n9upphXlh6fBvOgXk19DW5gz9Tn7ZToh&shared&mode=app",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/32d0f4d63b7a4d633c9aa40ae9879e65/__________1_.png"
+    "image": ""
   },
   {
     "id": "c3452468952",
@@ -1093,7 +1093,7 @@
     "category": "教學(Teaching)",
     "url": "https://gemini.google.com/gem/1o5tvYs6uALnbfND0T3TzHqOAlYPNkLBr?usp=sharing",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/da07e0d1afa8d236afb72ad97012fee0/Gemini_Generated_Image_52txii52txii52tx.png"
+    "image": ""
   },
   {
     "id": "c3818762218",
@@ -1101,7 +1101,7 @@
     "category": "教學(Teaching)",
     "url": "https://gemini.google.com/gem/1aVE3OfJeIf4ewy3Wdb99zSgku6m8GM7J?usp=sharing",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/ff1cb4b13a3dbae76ccc2496c72b2748/Gemini_Generated_Image_o5q6rto5q6rto5q6.png"
+    "image": ""
   },
   {
     "id": "c3788649720",
@@ -1109,7 +1109,7 @@
     "category": "教學(Teaching)",
     "url": "https://gemini.google.com/gem/1WmCE5Dal0MAisFdP8gq04aknnVGH4IC9?usp=sharing",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/c9bbc2550b4d2310064784fb064ee6b0/Gemini_Generated_Image_w89jp5w89jp5w89j.png"
+    "image": ""
   },
   {
     "id": "c3784206534",
@@ -1117,7 +1117,7 @@
     "category": "教學(Teaching)",
     "url": "https://gemini.google.com/gem/1QRtiH_AmHBiimnmcsTwwv30XZjigHV1i?usp=sharing",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/a747c77973328ef786b86917bd89feec/unnamed__9_.png"
+    "image": ""
   },
   {
     "id": "c3703046328",
@@ -1125,7 +1125,7 @@
     "category": "教學(Teaching)",
     "url": "https://gemini.google.com/share/d031f5a24841",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/a503fd972e5129dcc215109e869db26d/unnamed__5_.png"
+    "image": ""
   },
   {
     "id": "c3702429230",
@@ -1133,7 +1133,7 @@
     "category": "教學(Teaching)",
     "url": "https://gemini.google.com/gem/1SeL7nIZxSr54gMc1wL3zOe4Mlz4U9ZVX?usp=sharing",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/918ce41200a2791e38f0b56bd7c91a5d/Gemini_Generated_Image_pqpn46pqpn46pqpn.png"
+    "image": ""
   },
   {
     "id": "c3698023373",
@@ -1141,7 +1141,7 @@
     "category": "教學(Teaching)",
     "url": "https://gemini.google.com/share/8943d0bc6291",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/0d0e1e06d0cbd87ce02def5d4c51ff15/Gemini_Generated_Image_8z7d58z7d58z7d58.png"
+    "image": ""
   },
   {
     "id": "c3689723581",
@@ -1157,7 +1157,7 @@
     "category": "教學(Teaching)",
     "url": "https://puti-ai.my.canva.site/bopomofo",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/1827a97da6197ee94810d5cb20b979df/________1_.png"
+    "image": ""
   },
   {
     "id": "c3609419606",
@@ -1165,7 +1165,7 @@
     "category": "教學(Teaching)",
     "url": "https://g.co/gemini/share/97318ad09022",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/a12a2778d058f0a5100655cb71fa678c/________.png"
+    "image": ""
   },
   {
     "id": "c3513771986",
@@ -1229,7 +1229,7 @@
     "category": "創作(Creation)",
     "url": "https://share.gemini.google/LvV84sjKruFL",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/9dcbdd997ec22d9ac897b892ca8bb58a/ChatGPT_Image_2026_7_27____02_42_18.png"
+    "image": ""
   },
   {
     "id": "c3990494127",
@@ -1237,7 +1237,7 @@
     "category": "創作(Creation)",
     "url": "https://gemini.google.com/share/364dd499aaa3?skid=c706fe50-714a-4f4f-8a98-344609a06d9b",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/e0fb95c32877847cc161252a48cba038/ChatGPT_Image_2026_7_23____09_40_26.png"
+    "image": ""
   },
   {
     "id": "c3979994354",
@@ -1245,7 +1245,7 @@
     "category": "創作(Creation)",
     "url": "https://gemini.google.com/gem/1X0pLvzEzmz_CVuG3wlUzzgzB0vH59eOX?usp=sharing",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/35f87f36d5dc6095a32f3ed6871f8250/Gemini_Generated_Image_vqau3yvqau3yvqau.png"
+    "image": ""
   },
   {
     "id": "c3966655195",
@@ -1253,7 +1253,7 @@
     "category": "創作(Creation)",
     "url": "https://gemini.google.com/gem/1oXsq3BXk2Cs_BUhYWnCyFUsChaAeCMyD?usp=sharing",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/fd143837e07871b712b250e6c24b1c90/ChatGPT_Image_2026_6_29____02_24_13.png"
+    "image": ""
   },
   {
     "id": "c3959769657",
@@ -1261,7 +1261,7 @@
     "category": "創作(Creation)",
     "url": "https://gemini.google.com/gem/19Qv4lsP4fLOFrHYDokXjKSc_ZssfPIos?usp=sharing",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/32c9a731a62afafdf380cf35f81eb938/ChatGPT_Image_2026_6_21____08_28_16.png"
+    "image": ""
   },
   {
     "id": "c3927843711",
@@ -1269,7 +1269,7 @@
     "category": "創作(Creation)",
     "url": "https://gemini.google.com/gem/14kGf1bwJwHCXY2cs1AD4olRoCFCNDxMu?usp=sharing",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/ecd6c6c1f8d9b466b2db5716310bebcf/Gemini_Generated_Image_q2ckfmq2ckfmq2ck.png"
+    "image": ""
   },
   {
     "id": "c3926951090",
@@ -1277,7 +1277,7 @@
     "category": "創作(Creation)",
     "url": "https://gemini.google.com/gem/1iC40X0UnYN2RuajawqRUHTqJrciuTJdz?usp=sharing",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/2bd40ecd5afddc24b8cfae43d37929d4/Gemini_Generated_Image_jrw9usjrw9usjrw9.png"
+    "image": ""
   },
   {
     "id": "c3885754053",
@@ -1285,7 +1285,7 @@
     "category": "創作(Creation)",
     "url": "https://gemini.google.com/gem/1MHqAfe0A4mynp0z-3g_5nEozT10Tw3yr?usp=sharing",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/1bb75add9c9d60b2f1fef30a46882d3e/Gemini_Generated_Image_z237s1z237s1z237.png"
+    "image": ""
   },
   {
     "id": "c3884857005",
@@ -1293,7 +1293,7 @@
     "category": "創作(Creation)",
     "url": "https://gemini.google.com/gem/1p9wRc4pA9ABzgIbcFzHo7Xdv8hmav-Ki?usp=sharing",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/e72000c1f1b6633a8ab9c9d3d816c000/Gemini_Generated_Image_y08xuy08xuy08xuy.png"
+    "image": ""
   },
   {
     "id": "c3873592384",
@@ -1301,7 +1301,7 @@
     "category": "創作(Creation)",
     "url": "https://gemini.google.com/gem/11DNMX3yK70Rtt87WDtIPTMeCGx0fE70f?usp=sharing",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/fa2124deaca8f7e8cea43a7a43f0114a/Gemini_Generated_Image_p0p6g7p0p6g7p0p6.png"
+    "image": ""
   },
   {
     "id": "c3811638741",
@@ -1309,7 +1309,7 @@
     "category": "創作(Creation)",
     "url": "https://gemini.google.com/gem/18o8PhO8B2kegCFKmvz5TKGKd_QEf2cMM?usp=sharing",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/18d9cc7247c2b26726544f5547f6af26/Gemini_Generated_Image_d19ozyd19ozyd19o.png"
+    "image": ""
   },
   {
     "id": "c3782495776",
@@ -1317,7 +1317,7 @@
     "category": "創作(Creation)",
     "url": "https://gemini.google.com/gem/1xsfeS6MFEzgLf-zpAoFiBxhHQCaNdjdc?usp=sharing",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/32047ce971a563bd73f1856167defb38/Gemini_Generated_Image_ny0jk1ny0jk1ny0j.png"
+    "image": ""
   },
   {
     "id": "c3781027820",
@@ -1325,7 +1325,7 @@
     "category": "創作(Creation)",
     "url": "https://gemini.google.com/gem/1uPhSt66ArqqnQqq1KkS84ThzscjprJ43?usp=sharing",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/7c752f82d27ca93a7f20d45119c515f9/Gemini_Generated_Image_6rqhxf6rqhxf6rqh.png"
+    "image": ""
   },
   {
     "id": "c3769924958",
@@ -1333,7 +1333,7 @@
     "category": "創作(Creation)",
     "url": "https://gemini.google.com/gem/1oWrB6hEEAfdD2Ch9OuBozKYL8FCdbzvw?usp=sharing",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/68704dea33c0cc8d90008c6b6a6dd2ca/Gemini_Generated_Image_zfivppzfivppzfiv.png"
+    "image": ""
   },
   {
     "id": "c3744213861",
@@ -1341,7 +1341,7 @@
     "category": "創作(Creation)",
     "url": "https://gemini.google.com/gem/1zW_YQXai3v6xqVLb5EMShZgYlZYjuhHH?usp=sharing",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/c32b2e6c007a23e6165d17d2ab817ff3/Gemini_Generated_Image_y7dihfy7dihfy7di.png"
+    "image": ""
   },
   {
     "id": "c3733501073",
@@ -1349,7 +1349,7 @@
     "category": "創作(Creation)",
     "url": "https://gemini.google.com/gem/1HE9tM8T-SqRYOxb0PDXMzYkmgp0aTEel?usp=sharing",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/32dc1b4a49685729926b489c53603ca8/unnamed.jpg"
+    "image": ""
   },
   {
     "id": "c3721890130",
@@ -1357,7 +1357,7 @@
     "category": "創作(Creation)",
     "url": "https://gemini.google.com/gem/1nia_DyzN7zTxtnT8oYd9bf4aT9JPwwG_?usp=sharing",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/b3ce85553cf70993ab689d6798bc1793/Gemini_Generated_Image_jxvjljxvjljxvjlj.png"
+    "image": ""
   },
   {
     "id": "c3717564558",
@@ -1365,7 +1365,7 @@
     "category": "創作(Creation)",
     "url": "https://gemini.google.com/gem/1b0bSUn6ScaBmHYQjb33C2zIH97A585tS?usp=sharing",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/97bd8664327aeb886be5135d8ab8f020/Gemini_Generated_Image_uoeceouoeceouoec.png"
+    "image": ""
   },
   {
     "id": "c3656408245",
@@ -1373,7 +1373,7 @@
     "category": "創作(Creation)",
     "url": "https://gemini.google.com/share/03e980519699",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/b52fc82270434712436dc6f33aaab9f1/ChatGPT_Image_2025_10_29____05_11_56.png"
+    "image": ""
   },
   {
     "id": "c3692840253",
@@ -1381,7 +1381,7 @@
     "category": "創作(Creation)",
     "url": "https://gemini.google.com/gem/1p7PAU2XgCjdfzZrPDYi6D4lPBfiQShGP?usp=sharing",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/582a46c1e11bea3a9a03c327f836004f/_______.jpg"
+    "image": ""
   },
   {
     "id": "c3687493721",
@@ -1389,7 +1389,7 @@
     "category": "創作(Creation)",
     "url": "https://gemini.google.com/gem/1fKfVWvqSjEHCGdfdeU4wqZQrN9krzpdW?usp=sharing",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/f906217a06a599885fa43387b999249a/___Facebook_______1_.png"
+    "image": ""
   },
   {
     "id": "c3686426355",
@@ -1397,7 +1397,7 @@
     "category": "創作(Creation)",
     "url": "https://gemini.google.com/gem/1bGdj-n50chQyZvogpdUlB8PcpGCpMIkv?usp=sharing",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/17343772514b0efce2525ff3dc906a11/_______Facebook_______1_.png"
+    "image": ""
   },
   {
     "id": "c3643101383",
@@ -1421,7 +1421,7 @@
     "category": "創作(Creation)",
     "url": "https://g.co/gemini/share/967e3a2de9c8",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/f9d9593d235aa7d48b37d3a36cc6ee87/2025_09_03_07h21_42.png"
+    "image": ""
   },
   {
     "id": "c3559592656",
@@ -1429,7 +1429,7 @@
     "category": "創作(Creation)",
     "url": "https://g.co/gemini/share/6073f1d271b6",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/a852b358f5896caa84ae971ad64264fc/ChatGPT_Image_2025_8_29____10_03_20.png"
+    "image": ""
   },
   {
     "id": "c3543403043",
@@ -1437,7 +1437,7 @@
     "category": "創作(Creation)",
     "url": "https://gemini.google.com/share/3d99c5f887ad",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/83b871220c855e9640fea1d1fb8ae880/ChatGPT_Image_2025_8_13____10_40_35.png"
+    "image": ""
   },
   {
     "id": "c3397450575",
@@ -1501,7 +1501,7 @@
     "category": "班級經營(Class)",
     "url": "https://puti001.github.io/baihe-quiz-player/elementary_teacher_calendar_generator.html",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/bf78ce406c432d8e5f91eeaf43537674/ChatGPT_Image_2026_8_14____08_47_21.png"
+    "image": ""
   },
   {
     "id": "c3809142660",
@@ -1509,7 +1509,7 @@
     "category": "班級經營(Class)",
     "url": "https://gemini.google.com/share/a970f3bc4c83",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/50d53efb019e84544821efa6f8a30b8c/Gemini_Generated_Image_gbf54cgbf54cgbf5.png"
+    "image": ""
   },
   {
     "id": "c3796535043",
@@ -1517,7 +1517,7 @@
     "category": "班級經營(Class)",
     "url": "https://puti001.github.io/teach_tools/eshome-teacher.html",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/7d2df831df820e7c62a4b663b4256195/Gemini_Generated_Image_n43uzun43uzun43u.png"
+    "image": ""
   },
   {
     "id": "c3765738429",
@@ -1525,7 +1525,7 @@
     "category": "班級經營(Class)",
     "url": "https://gemini.google.com/share/0bc98f95071f",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/079459ecf4cdd7f7a8618aff1c53a2ad/Gemini_Generated_Image_bev2vjbev2vjbev2.png"
+    "image": ""
   },
   {
     "id": "c3763650444",
@@ -1533,7 +1533,7 @@
     "category": "班級經營(Class)",
     "url": "https://gemini.google.com/share/8b6ae3c04244",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/49c4fafe4c1d23d93ad5e4166073d0cb/Gemini_Generated_Image_d26pmhd26pmhd26p.png"
+    "image": ""
   },
   {
     "id": "c3763034542",
@@ -1541,7 +1541,7 @@
     "category": "班級經營(Class)",
     "url": "https://gemini.google.com/share/72fab016a95a",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/738165d20c60fbff59b8586d64096c69/Gemini_Generated_Image_6rqoto6rqoto6rqo.png"
+    "image": ""
   },
   {
     "id": "c3523939721",
@@ -1637,7 +1637,7 @@
     "category": "文書應用(Office)",
     "url": "https://puti001.github.io/teach_tools/MD10.html",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/d2e6d30b7157e0a44a1820bee0da91aa/Gemini_Generated_Image_jkzd0yjkzd0yjkzd.png"
+    "image": ""
   },
   {
     "id": "c3320864045",
@@ -1661,7 +1661,7 @@
     "category": "文書應用(Office)",
     "url": "https://script.google.com/macros/s/AKfycbxgPdLP2f6Ugb6z95f_JJVNwVaH8vxl3R-hh7hiT-6NFpLUs-_aZkWNVKdt5ReScwLklg/exec",
     "source": "文字連結",
-    "image": "https://padlet-uploads.storage.googleapis.com/405810605/e0c629b98299162c435cdd10861db892/2024_12_27_14h05_16.png"
+    "image": ""
   },
   {
     "id": "c3948727148",
@@ -1669,7 +1669,7 @@
     "category": "簡便工具(Useful)",
     "url": "https://github.com/puti001/puti-ai-disk-analyzer/releases/download/v3.0.0/puti-ai-disk-analyzer-v3.0.0.zip",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/75a9e966cd9ed6a5328ab2d7c3608839/ChatGPT_Image_2026_6_10____06_59_37.png"
+    "image": ""
   },
   {
     "id": "c3937063471",
@@ -1677,7 +1677,7 @@
     "category": "簡便工具(Useful)",
     "url": "https://drive.google.com/file/d/1vQH2dznF_IUu501HjNEgYIRoXYXoDBAb/view?usp=sharing",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/d09dbf8566ea50ebaa065bb478fd5a94/Gemini_Generated_Image_d38aajd38aajd38a.png"
+    "image": ""
   },
   {
     "id": "c3933557181",
@@ -1685,7 +1685,7 @@
     "category": "簡便工具(Useful)",
     "url": "https://drive.google.com/file/d/1GINd-uNL4BlOeO-6t-8dFzksm6tm8yP1/view?usp=sharing",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/34302e64994c9d2d055aff65d3d5cc93/Gemini_Generated_Image_d2elz9d2elz9d2el.png"
+    "image": ""
   },
   {
     "id": "c3920001710",
@@ -1693,7 +1693,7 @@
     "category": "簡便工具(Useful)",
     "url": "https://puti001.github.io/teach_tools/filestype.html",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/8e54b71694f17d8cf904c906edf3d7d6/Gemini_Generated_Image_ltwfllltwfllltwf.png"
+    "image": ""
   },
   {
     "id": "c3918675162",
@@ -1701,7 +1701,7 @@
     "category": "簡便工具(Useful)",
     "url": "https://padletcdn.com/cgi/fetch?disposition=attachment&url=https%3A%2F%2Fu1.padletusercontent.com%2Fuploads%2Fpadlet-uploads-usc1%2F405810605%2Fc55f14a0dad426bccce7c9eb35b57f0d%2FPuti_AI_______.zip%3Fexpiry_token%3D5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKio-GwAtFbxjaPIED9DEglUKEh5bXRR7ay4UfHyIWZ94yhmdVtT3RZNtVkKiTnna5a9gF6cb_viV0wBkFYnhhGMz8DmJiZyLjFgn6v5RMOCFdV4v7MBz7_hMdfXXOnnEzQ38HOABG1_PGnkA-Sx8b0GBw%3D",
     "source": "圖片／附件連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/c55f14a0dad426bccce7c9eb35b57f0d/Puti_AI_______.zip"
+    "image": ""
   },
   {
     "id": "c3915948809",
@@ -1709,7 +1709,7 @@
     "category": "簡便工具(Useful)",
     "url": "https://drive.google.com/file/d/1tBECta2yrOTF5LyBfRKVyoahIUmQw-dr/view?usp=sharing",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/c13a5e53273d2c2e527b064abbca68a3/Gemini_Generated_Image_f7gl11f7gl11f7gl.png"
+    "image": ""
   },
   {
     "id": "c3905516437",
@@ -1717,7 +1717,7 @@
     "category": "簡便工具(Useful)",
     "url": "https://puti001.github.io/teach_tools/ahk.html",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/26a4784eec7bdc48135bbe5beda7d7a8/Gemini_Generated_Image_kdxr8skdxr8skdxr.png"
+    "image": ""
   },
   {
     "id": "c3900573642",
@@ -1725,7 +1725,7 @@
     "category": "簡便工具(Useful)",
     "url": "https://puti001.github.io/teach_tools/img2slide2.html",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/bca4b658f6ae5cfed2ce8db95574b071/Gemini_Generated_Image_fae7qzfae7qzfae7.png"
+    "image": ""
   },
   {
     "id": "c3897851228",
@@ -1733,7 +1733,7 @@
     "category": "簡便工具(Useful)",
     "url": "https://puti001.github.io/teach_tools/ex_materials.html",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/5752f36f823b47afbde9a9ea0395f7a3/Gemini_Generated_Image_ralzr8ralzr8ralz.png"
+    "image": ""
   },
   {
     "id": "c3896007657",
@@ -1741,7 +1741,7 @@
     "category": "簡便工具(Useful)",
     "url": "https://padletcdn.com/cgi/fetch?disposition=attachment&url=https%3A%2F%2Fu1.padletusercontent.com%2Fuploads%2Fpadlet-uploads-usc1%2F405810605%2F43b6386bf4af62216bfac7339b1265b3%2F______.zip%3Fexpiry_token%3D5WaHZRdGG3LkUVQGy3SZ-zdRtq89aJeottSBaF_Hii8dmxJqYDvE2-MDbblcM-ZrVekXW99RReKkJFIoMoKio-GwAtFbxjaPIED9DEglUKFjIdyM11j7bndfIOP3VTIa6ORzPrDEMBuvwNhHpCrmJyO8CJBcpI8G0FYLN9T0dsPKyWXpjjbuJPmGY4Xpw17-Xn4Xwgi47010Ulsr7_8Gbg%3D%3D",
     "source": "圖片／附件連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/43b6386bf4af62216bfac7339b1265b3/______.zip"
+    "image": ""
   },
   {
     "id": "c3892220125",
@@ -1749,7 +1749,7 @@
     "category": "簡便工具(Useful)",
     "url": "https://puti001.github.io/teach_tools/img2slide.html",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/cc8b329176100cbd893d14ca7f62e53f/Gemini_Generated_Image_g44qwg44qwg44qwg__1_.png"
+    "image": ""
   },
   {
     "id": "c3883714822",
@@ -1757,7 +1757,7 @@
     "category": "簡便工具(Useful)",
     "url": "https://puti001.github.io/teach_tools/Image_stitcher.html",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/dd590b210895761ed579e7e95907b348/Gemini_Generated_Image_7mwg947mwg947mwg.png"
+    "image": ""
   },
   {
     "id": "c3876208027",
@@ -1765,7 +1765,7 @@
     "category": "簡便工具(Useful)",
     "url": "https://puti001.github.io/teach_tools/PDF_view.html",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/1bc75c4c2e3a2d257adbd78959ccb55e/Gemini_Generated_Image_xhq9mdxhq9mdxhq9.png"
+    "image": ""
   },
   {
     "id": "c3874296753",
@@ -1773,7 +1773,7 @@
     "category": "簡便工具(Useful)",
     "url": "https://puti001.github.io/teach_tools/PDF_splitter.html",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/d9c1b8be6a9bc8c604894f834597e059/Gemini_Generated_Image_fxzm4efxzm4efxzm.png"
+    "image": ""
   },
   {
     "id": "c3872919728",
@@ -1781,7 +1781,7 @@
     "category": "簡便工具(Useful)",
     "url": "https://puti001.github.io/teach_tools/Table2PPT.html",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/40953535826fee308cbd332d5207478c/Gemini_Generated_Image_5wznfw5wznfw5wzn.png"
+    "image": ""
   },
   {
     "id": "c3871385120",
@@ -1789,7 +1789,7 @@
     "category": "簡便工具(Useful)",
     "url": "https://puti001.github.io/teach_tools/Img_bat_name_resize.html",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/4d87276cd7281dd4f86c5e038408f7cb/Gemini_Generated_Image_ib3sh2ib3sh2ib3s.png"
+    "image": ""
   },
   {
     "id": "c3822965119",
@@ -1797,7 +1797,7 @@
     "category": "簡便工具(Useful)",
     "url": "https://puti001.github.io/teach_tools/mp3_cut.html",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/d95880e468e4d150268467dc47fdd6fd/Gemini_Generated_Image_p4lbopp4lbopp4lb.png"
+    "image": ""
   },
   {
     "id": "c3809068844",
@@ -1821,7 +1821,7 @@
     "category": "簡便工具(Useful)",
     "url": "https://sites.google.com/view/puti-ai/pdftools",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/f2512c6573278ee9fc2cdf59447b6ed9/Gemini_Generated_Image_ictq67ictq67ictq.png"
+    "image": ""
   },
   {
     "id": "c3761917006",
@@ -1829,7 +1829,7 @@
     "category": "簡便工具(Useful)",
     "url": "https://gemini.google.com/share/944f4e6a71c2",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/4280a7e1e913cc025a5f5b5dc5655dc4/Gemini_Generated_Image_8sx9yy8sx9yy8sx9.png"
+    "image": ""
   },
   {
     "id": "c3731013970",
@@ -1837,7 +1837,7 @@
     "category": "簡便工具(Useful)",
     "url": "https://gemini.google.com/gem/1jim2VY1RpWPFhos52WOo6zFVGzqXujNY?usp=sharing",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/09c6cc21c1bbd66e2ebf63d701dcf995/Gemini_Generated_Image_qclm12qclm12qclm.png"
+    "image": ""
   },
   {
     "id": "c3721393907",
@@ -1845,7 +1845,7 @@
     "category": "簡便工具(Useful)",
     "url": "https://sites.google.com/view/puti-ai/img2s-pdf",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/9c5e7ed7da90b324db8926b3a227ddca/Gemini_Generated_Image_fwrarnfwrarnfwra.png"
+    "image": ""
   },
   {
     "id": "c3713677421",
@@ -1853,7 +1853,7 @@
     "category": "簡便工具(Useful)",
     "url": "https://ai.studio/apps/drive/1HsmlFIUR4gOfEmcYI5grv4YVsDHhI3Py",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/cfa6adad9abafabe2c12cc6cc02f03aa/Gemini_Generated_Image_cmrxencmrxencmrx.png"
+    "image": ""
   },
   {
     "id": "c3712953960",
@@ -1861,7 +1861,7 @@
     "category": "簡便工具(Useful)",
     "url": "https://gemini.google.com/gem/12NoLe59IYYpZkM1X1q3iVMWKLFloI02H?usp=sharing",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/0ca843061c49436be5dc8f716f385055/Gemini_Generated_Image_7f0u917f0u917f0u.png"
+    "image": ""
   },
   {
     "id": "c3711066335",
@@ -1869,7 +1869,7 @@
     "category": "簡便工具(Useful)",
     "url": "https://gemini.google.com/gem/1UEvyr6bmd7bRxpx0cgMCbzntiu0bKukO?usp=sharing",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/ac85efb01ef9ed9af3650a0d2cec6ddf/Gemini_Generated_Image_rtx119rtx119rtx1.png"
+    "image": ""
   },
   {
     "id": "c3708416376",
@@ -1877,7 +1877,7 @@
     "category": "簡便工具(Useful)",
     "url": "https://gemini.google.com/gem/17lIuMvU3UfsCx7mS5DTu4w689Esdfx2Z?usp=sharing",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/3996be0a1ee7305c01cd2850a79c0520/Gemini_Generated_Image_mrv7d3mrv7d3mrv7.png"
+    "image": ""
   },
   {
     "id": "c3706860305",
@@ -1885,7 +1885,7 @@
     "category": "簡便工具(Useful)",
     "url": "https://reurl.cc/eVLnkj",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/09784ba4bf5fdc56c79ae3dc10bf4656/Puti_AI_Gemini_Generated_Image_gwnwx5gwnwx5gwnw.png"
+    "image": ""
   },
   {
     "id": "c3662671328",
@@ -1893,7 +1893,7 @@
     "category": "簡便工具(Useful)",
     "url": "https://sites.google.com/view/puti-ai/img2pdf",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/9856f95be9c76c6250c5aeb2be7cd714/Puti_AI____PDF___.png"
+    "image": ""
   },
   {
     "id": "c3626029317",
@@ -1901,7 +1901,7 @@
     "category": "簡便工具(Useful)",
     "url": "https://g.co/gemini/share/ab2f7b5226ee",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/44301e81f294871e7cd557f357c9ecbf/____________.png"
+    "image": ""
   },
   {
     "id": "c3624875299",
@@ -1909,7 +1909,7 @@
     "category": "簡便工具(Useful)",
     "url": "https://gemini.google.com/gem/1TqSzAiHgRQXve59EDSwv9ddBBj74_2Bc?usp=sharing",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/166a620d606ff65950e2694e5129b4cb/______.png"
+    "image": ""
   },
   {
     "id": "c3611148012",
@@ -1917,7 +1917,7 @@
     "category": "簡便工具(Useful)",
     "url": "https://g.co/gemini/share/54e3ecb0c8b8",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/8afe4c4a0145668f21bdf207451077ee/________.png"
+    "image": ""
   },
   {
     "id": "c3606849811",
@@ -1925,7 +1925,7 @@
     "category": "簡便工具(Useful)",
     "url": "https://puti001.github.io/teach_tools/Screenshot_Cutter/",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/dff8508b20c79ede30ca52568ed1a724/__________1_.png"
+    "image": ""
   },
   {
     "id": "c3580298088",
@@ -1933,7 +1933,7 @@
     "category": "簡便工具(Useful)",
     "url": "https://g.co/gemini/share/99f1ef18b49a",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/d19b23087ce0bd658ea1027ee35a4c79/P__1_.png"
+    "image": ""
   },
   {
     "id": "c3545404742",
@@ -2021,7 +2021,7 @@
     "category": "數學工具(Math)",
     "url": "https://gemini.google.com/share/91518b20490f",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/36707383fe16f0929a9865ea55fa2523/Gemini_Generated_Image_axoo9xaxoo9xaxoo.png"
+    "image": ""
   },
   {
     "id": "c3878227561",
@@ -2029,7 +2029,7 @@
     "category": "數學工具(Math)",
     "url": "https://puti001.github.io/teach_tools/digital_decoding.html",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/7bb288cab04903ef6028a3cbb8cdab55/Gemini_Generated_Image_7y0w367y0w367y0w.png"
+    "image": ""
   },
   {
     "id": "c3844178831",
@@ -2037,7 +2037,7 @@
     "category": "數學工具(Math)",
     "url": "https://puti001.github.io/teach_tools/add_subt.html",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/1cd07c3770e0e9a4eebdc0c3e7111287/Gemini_Generated_Image_lkhw8glkhw8glkhw.png"
+    "image": ""
   },
   {
     "id": "c3843577949",
@@ -2045,7 +2045,7 @@
     "category": "數學工具(Math)",
     "url": "https://puti001.github.io/teach_tools/D_multi.html",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/977721755cec0063b4f01aa8e285803e/Gemini_Generated_Image_cirk0acirk0acirk.png"
+    "image": ""
   },
   {
     "id": "c3842886566",
@@ -2053,7 +2053,7 @@
     "category": "數學工具(Math)",
     "url": "https://puti001.github.io/teach_tools/digital_decoding.html",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/b483f0fa9bfcaee4ec12f8ba32979d5f/Gemini_Generated_Image_w6h3ylw6h3ylw6h3.png"
+    "image": ""
   },
   {
     "id": "c3841392781",
@@ -2061,7 +2061,7 @@
     "category": "數學工具(Math)",
     "url": "https://puti001.github.io/teach_tools/Fraction.html",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/cabe7d31253c225870da9a635598b0a2/Gemini_Generated_Image_2lsr822lsr822lsr.png"
+    "image": ""
   },
   {
     "id": "c3838685680",
@@ -2069,7 +2069,7 @@
     "category": "數學工具(Math)",
     "url": "https://puti001.github.io/teach_tools/D_div.html",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/c48249035be528cf898334a565f51f75/Gemini_Generated_Image_eyl1qpeyl1qpeyl1.png"
+    "image": ""
   },
   {
     "id": "c3830117784",
@@ -2077,7 +2077,7 @@
     "category": "數學工具(Math)",
     "url": "https://sites.google.com/view/puti-ai/LaTax",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/8bc2f55fc1a5881b752b722f33d8ab1b/Gemini_Generated_Image_h6uwtnh6uwtnh6uw.png"
+    "image": ""
   },
   {
     "id": "c3826064062",
@@ -2085,7 +2085,7 @@
     "category": "數學工具(Math)",
     "url": "https://twebsite.hle.com.tw/ema/aigame/index.html",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/0d79cb83de37e3a57eed912c16f1aae5/Gemini_Generated_Image_2nrisj2nrisj2nri.png"
+    "image": ""
   },
   {
     "id": "c3668252320",
@@ -2093,7 +2093,7 @@
     "category": "數學工具(Math)",
     "url": "https://gemini.google.com/gem/11FctUgs_TAHIVdF1AV1r6smBpu8FK8B_?usp=sharing",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/4486ff3f3f4a10d4a6007a9275930321/ChatGPT_Image_2025_11_5____11_48_36.png"
+    "image": ""
   },
   {
     "id": "c3604877253",
@@ -2101,7 +2101,7 @@
     "category": "數學工具(Math)",
     "url": "https://g.co/gemini/share/09d177e53bc4",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/20aa5e7614193ee3a2413466771ac897/image.png"
+    "image": ""
   },
   {
     "id": "c3572356788",
@@ -2109,7 +2109,7 @@
     "category": "數學工具(Math)",
     "url": "https://puti-ai.my.canva.site/place-value",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/853f7a0061c05079c5f8604d076a78be/2025_09_07_23h31_27.png"
+    "image": ""
   },
   {
     "id": "c3489593722",
@@ -2141,7 +2141,7 @@
     "category": "學校行政",
     "url": "https://gemini.google.com/gem/1u8tLYYrY9zEOM-oKBEGcFpigTpnPI7Xk?usp=sharing",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/4e290f25c228b893c46fb110e6fda1fa/Gemini_Generated_Image_r9x7lyr9x7lyr9x7.png"
+    "image": ""
   },
   {
     "id": "c3809007283",
@@ -2149,7 +2149,7 @@
     "category": "學校行政",
     "url": "https://puti001.github.io/teach_tools/slide.html",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/ffe70d3b0f816a04aa065e0ac51aa9ab/Gemini_Generated_Image_kl6u2dkl6u2dkl6u__1_.png"
+    "image": ""
   },
   {
     "id": "c3797072074",
@@ -2157,7 +2157,7 @@
     "category": "學校行政",
     "url": "https://puti001.github.io/teach_tools/office.html",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/29325b363af715a34a9be17538639ea9/Gemini_Generated_Image_lj6kcylj6kcylj6k.png"
+    "image": ""
   },
   {
     "id": "c3712366473",
@@ -2165,7 +2165,7 @@
     "category": "學校行政",
     "url": "https://gemini.google.com/gem/1Fo-Lshm-Jh1Eh1Zw1Xwhf3hG3qyZw1pD?usp=sharing",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/014df490324ab7814e7c99c7824a03f1/Gemini_Generated_Image_3ygjyx3ygjyx3ygj.png"
+    "image": ""
   },
   {
     "id": "c3709290826",
@@ -2173,7 +2173,7 @@
     "category": "學校行政",
     "url": "https://gemini.google.com/gem/1zU9lmM4jUeijzVkzXpjZYGwm-Xx2LHi8?usp=sharing",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/b27403df7bc3696b8f5f780c59f779b0/unnamed.png"
+    "image": ""
   },
   {
     "id": "c3941595745",
@@ -2181,7 +2181,7 @@
     "category": "Antigravity",
     "url": "https://www.anygen.io/share/22WKPNRUQ8vacp9EYxeMJj?share_id=7592229559668313823",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/5f176459f1c6dea05bab98a8ce062c94/ChatGPT_Image_2026_6_4____10_53_31.png"
+    "image": ""
   },
   {
     "id": "c3940883335",
@@ -2189,7 +2189,7 @@
     "category": "Antigravity",
     "url": "https://github.com/puti001/antigravity-automation",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/2c9fb756b160fccdebdcc40637f204c0/ChatGPT_Image_2026_6_4____03_19_15.png"
+    "image": ""
   },
   {
     "id": "c4007332969",
@@ -2197,7 +2197,7 @@
     "category": "Agent 技能",
     "url": "https://puti001.github.io/baihe-quiz-player/",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/b46cb2db924518dc0828f0e78bc7c441/ChatGPT_Image_2026_8_14____05_45_18.png"
+    "image": ""
   },
   {
     "id": "c3967891790",
@@ -2205,7 +2205,7 @@
     "category": "Agent 技能",
     "url": "https://github.com/puti001/Puti-AI-antigravity-opencode-usage-dashboard",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/4c949b2f193ca41210e181b28ac86d64/ChatGPT_Image_2026_6_30____08_05_38.png"
+    "image": ""
   },
   {
     "id": "c3962528812",
@@ -2213,7 +2213,7 @@
     "category": "Agent 技能",
     "url": "https://github.com/puti001/puti-weather-typhoon",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/79ff5ced3371ba8df9f005152316d807/Gemini_Generated_Image_uyebnruyebnruyeb.png"
+    "image": ""
   },
   {
     "id": "c3958060424",
@@ -2221,7 +2221,7 @@
     "category": "Agent 技能",
     "url": "https://github.com/puti001/opencode-agent-bridge",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/274c8fb42756a97c33b404313d52b1ef/Gemini_Generated_Image_66e6wx66e6wx66e6.png"
+    "image": ""
   },
   {
     "id": "c3955621770",
@@ -2229,7 +2229,7 @@
     "category": "Agent 技能",
     "url": "https://github.com/puti001/Puti-AI-auto-transcribe-notebooklm",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/265983a972233181a3e6e89302c075d4/ChatGPT_Image_2026_6_17____08_52_20.png"
+    "image": ""
   },
   {
     "id": "c3953825021",
@@ -2237,7 +2237,7 @@
     "category": "Agent 技能",
     "url": "https://github.com/puti001/puti-ai-slide-generator",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/60a103573babaf08e9c3a2a551e51e13/ChatGPT_Image_2026_6_15____11_05_19.png"
+    "image": ""
   },
   {
     "id": "c3951950046",
@@ -2245,7 +2245,7 @@
     "category": "Agent 技能",
     "url": "https://github.com/puti001/Puti-AI-Tutorial-Video-Auto-Editor",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/c1c892d81d7c4285fb3fd454d89f2f89/ChatGPT_Image_2026_6_14____07_34_43.png"
+    "image": ""
   },
   {
     "id": "c3993675791",
@@ -2253,7 +2253,7 @@
     "category": "Google生態系",
     "url": "https://puti001.github.io/gemini-step-animator/",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/1a71d56dbdd68cefcfc5f73702d23d6d/ChatGPT_Image_2026_7_29____07_56_30.png"
+    "image": ""
   },
   {
     "id": "c3928584528",
@@ -2261,7 +2261,7 @@
     "category": "Google生態系",
     "url": "https://gemini.google.com/gem/1MyZcnSDmL8vxVEOsAGFQwiRMIzcjrXwd?usp=sharing",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/fc8ff923514f31f3bd87b6b3e12a36f7/Gemini_Generated_Image_wz3y6cwz3y6cwz3y.png"
+    "image": ""
   },
   {
     "id": "c3923398186",
@@ -2269,7 +2269,7 @@
     "category": "Google生態系",
     "url": "https://chromewebstore.google.com/detail/puti-ai-%E6%96%87%E6%9C%AC%E6%93%B4%E5%B1%95%E5%99%A8/jhjikkclahioaedgijaddcajdpigclgd",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/ba7bc70d2eb80a27e94fe672ea858199/Gemini_Generated_Image_6xie9r6xie9r6xie.png"
+    "image": ""
   },
   {
     "id": "c3899164218",
@@ -2277,7 +2277,7 @@
     "category": "Google生態系",
     "url": "https://chromewebstore.google.com/detail/gbkbpilenijckcngajpmpflbggfakdai?utm_source=item-share-cb",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/5ee0c78039004ccd90053719e1ab0e09/Gemini_Generated_Image_eh8qhreh8qhreh8q.png"
+    "image": ""
   },
   {
     "id": "c3866035910",
@@ -2285,7 +2285,7 @@
     "category": "Google生態系",
     "url": "https://notebooklm.google.com/notebook/a637108a-690b-4c3e-a7ae-2a0d94950a03",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/3d9308fae797695cc6816c6fabde92e0/Gemini_Generated_Image_gdixy3gdixy3gdix.png"
+    "image": ""
   },
   {
     "id": "c3800936171",
@@ -2293,7 +2293,7 @@
     "category": "Google生態系",
     "url": "https://puti001.github.io/teach_tools/Gemini.html",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/7bdcb29e5fc8841a0e7a884242e4a42f/Gemini_Generated_Image_xrjlu7xrjlu7xrjl.png"
+    "image": ""
   },
   {
     "id": "c3799332380",
@@ -2301,7 +2301,7 @@
     "category": "Google生態系",
     "url": "https://puti001.github.io/teach_tools/NotebookLM.html",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/ac4ca43dc6a99b373dad18e645e60368/Gemini_Generated_Image_8sp59y8sp59y8sp5.png"
+    "image": ""
   },
   {
     "id": "c3622766394",
@@ -2309,7 +2309,7 @@
     "category": "Google生態系",
     "url": "https://g.co/gemini/share/300fadc543d5",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/f131d2727a0083b3a0a9e234cf0b7884/______.png"
+    "image": ""
   },
   {
     "id": "c3515295704",
@@ -2349,7 +2349,7 @@
     "category": "English",
     "url": "https://ai.studio/apps/drive/1Cu9fUMMTxi4fMYjAYDxVQk7Nhs4SSeL9",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/a2f5f05a89007f979e2091012113e085/Gemini_Generated_Image_wtn3lvwtn3lvwtn3.png"
+    "image": ""
   },
   {
     "id": "c3300468240",
@@ -2365,7 +2365,7 @@
     "category": "好康分享",
     "url": "https://chatgpt.com/g/g-6a6dc89e3ee88191a35105c8987b30ef-puti-ai-hu-li-ji-gou-zhi-hui-pai-ban-chan-sheng-qi",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/0e3d99130a24c8f33d5a812b02991934/ChatGPT_Image_2026_8_1____09_42_45.png"
+    "image": ""
   },
   {
     "id": "c3985849990",
@@ -2373,7 +2373,7 @@
     "category": "好康分享",
     "url": "https://puti001.github.io/deposit-calculator/",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/f7a7522b20ef05910b58dafab2a12eae/ChatGPT_Image_2026_7_17____11_03_21.png"
+    "image": ""
   },
   {
     "id": "c3975278400",
@@ -2381,7 +2381,7 @@
     "category": "好康分享",
     "url": "https://puti001.github.io/puti-food-safety/",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/91e2ec4400f8d47864ac0360d31cbd78/Gemini_Generated_Image_bn5480bn5480bn54.png"
+    "image": ""
   },
   {
     "id": "c3895063580",
@@ -2389,7 +2389,7 @@
     "category": "好康分享",
     "url": "https://padlet.com/clongwh/puti-ai-teaching-tool-library-tifvrvjcpg51cw7r/wish/MbejW1Ovp82oQNkG",
     "source": "圖片／附件連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/13544c3e0bc3e68ff67a109352620a52/Gemini_Generated_Image_k870ebk870ebk870.png"
+    "image": ""
   },
   {
     "id": "c3743594167",
@@ -2397,7 +2397,7 @@
     "category": "好康分享",
     "url": "https://gemini.google.com/gem/1NoibVPbBBIZC7UFNu3B6RX66kCQSmX_I?usp=sharing",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/ab0db842f00fc4a251bada62831fb719/Gemini_Generated_Image_rwahhhrwahhhrwah.png"
+    "image": ""
   },
   {
     "id": "c3552558352",
@@ -2405,7 +2405,7 @@
     "category": "好康分享",
     "url": "https://puti001.github.io/teach_tools/disc/",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/75403ee2d2509855ba702099a0d55cea/ChatGPT_Image_2025_8_24____10_44_17.png"
+    "image": ""
   },
   {
     "id": "c3511565734",
@@ -2429,7 +2429,7 @@
     "category": "網站",
     "url": "https://www.anygen.io/share/1xBWAWYq9uIsR2gZEdXf87",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/6c3951d7f015142269c4d5401ff4ddaf/Gemini_Generated_Image_mj7rvemj7rvemj7r.png"
+    "image": ""
   },
   {
     "id": "c3869423314",
@@ -2437,7 +2437,7 @@
     "category": "網站",
     "url": "https://puti001.github.io/teach_tools/Batch_Sheet2Slide.html",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/cce1d3f599b83218f7b89aef0c9d669a/Gemini_Generated_Image_o7e1kvo7e1kvo7e1.png"
+    "image": ""
   },
   {
     "id": "c3867213941",
@@ -2445,7 +2445,7 @@
     "category": "網站",
     "url": "https://puti001.github.io/teach_tools/Batch_Img2txt.html",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/32ba52b6a653c9662c22c62ffc320c87/Gemini_Generated_Image_ojuo9kojuo9kojuo.png"
+    "image": ""
   },
   {
     "id": "c3852339143",
@@ -2453,7 +2453,7 @@
     "category": "網站",
     "url": "https://www.anygen.io/share/72pLkQ7BMaVjYtdFQ0DkC6",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/3e1540bb9898e01637bdd25fd4066324/Gemini_Generated_Image_kkjzl2kkjzl2kkjz.png"
+    "image": ""
   },
   {
     "id": "c3850194255",
@@ -2461,7 +2461,7 @@
     "category": "網站",
     "url": "https://www.anygen.io/share/6obbbIFPs7438xtnFWRrx4?share_id=7592229559668313823",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/2b170d9e1a7a5b628606ad13e676694f/image_w2752_h1536_puti_ai_poster_v2.jpeg"
+    "image": ""
   },
   {
     "id": "c3846547834",
@@ -2469,7 +2469,7 @@
     "category": "網站",
     "url": "https://puti001.github.io/teach_tools/AI_teach.html",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/13866be9d5913343e6ed58d6497b49e4/Gemini_Generated_Image_ze5vkgze5vkgze5v.png"
+    "image": ""
   },
   {
     "id": "c3776939236",
@@ -2477,7 +2477,7 @@
     "category": "網站",
     "url": "https://gemini.google.com/share/1f3ef08bc8d9",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/56cb6f86e8548cda36fe279f0e484481/AI_Teaching_Masterclass_page_0001.jpg"
+    "image": ""
   },
   {
     "id": "c3761498207",
@@ -2557,7 +2557,7 @@
     "category": "佛學筆記",
     "url": "https://padlet.com/puti_ai/Buddhism",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/6da977730d960a33707e31266f7d96ca/Gemini_Generated_Image_riusimriusimrius.png"
+    "image": ""
   },
   {
     "id": "c3852639980",
@@ -2565,7 +2565,7 @@
     "category": "音樂",
     "url": "https://puti001.github.io/teach_tools/music_comb.html",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/10b6b2fe02447b8e55228a7f79ff5df9/Gemini_Generated_Image_f87xizf87xizf87x.png"
+    "image": ""
   },
   {
     "id": "c3852160382",
@@ -2573,7 +2573,7 @@
     "category": "音樂",
     "url": "https://puti001.github.io/teach_tools/music_prompt.html",
     "source": "文字連結",
-    "image": "https://padlet-uploads-usc1.storage.googleapis.com/405810605/a33254eb631b67da1a95bff2684bf151/Gemini_Generated_Image_gdii17gdii17gdii.png"
+    "image": ""
   },
   {
     "id": "c3785697638",
